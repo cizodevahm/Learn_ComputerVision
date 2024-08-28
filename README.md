@@ -10,6 +10,7 @@ A curated list of essential computer vision resources, inspired by various aweso
 - [Papers](#papers)
 - [Software](#software)
 - [Datasets](#datasets)
+- [Pre-trained Computer Vision Models](#Pre-trained-Computer-Vision-Models)
 
 ## CV Lists
 A collection of influential projects that cover various aspects of computer vision, from fundamentals to advanced topics.
@@ -66,4 +67,7 @@ Curated datasets that are frequently used for training and evaluating computer v
  * [VisualData](http://www.visualdata.io/)
  * [The KITTI Vision Benchmark Suite](http://www.cvlibs.net/datasets/kitti/eval_stereo_flow.php?benchmark=stero)
  * [LIBELAS: Library for Efficient Large-scale Stereo Matching](http://www.cvlibs.net/software/libelas/)
- * [Ground Truth Stixel Dataset](http://www.6d-vision.com/ground-truth-stixel-dataset) 
+ * [Ground Truth Stixel Dataset](http://www.6d-vision.com/ground-truth-stixel-dataset)
+
+## Pre-trained Computer Vision Models
+ * [List of Computer Vision models](https://github.com/shubham-shahh/Open-Source-Models) These models are trained on custom objects
